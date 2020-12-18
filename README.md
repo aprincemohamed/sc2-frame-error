@@ -16,5 +16,8 @@ Thus the total width of each element of the first tuple for a link is 20.
 The second tuple contains the success of transmission ('rxSuccess'). If it is 1, there is no frame error, if it is 0, there is a frame error.
 
 # Code
-The code is provided into separate files, one for each scrimmage. Every file contains five different neural network architectures, with two separate approaches for creating the train-validation-test set. Please refer to the paper for a detailed description.
+The code is provided into separate files, one for each scrimmage (Scrimmage-4.ipynb & Scrimmage-5.ipynb). Every file contains five different neural network architectures, with two separate approaches for creating the train-validation-test set. 
+RFE.ipynb: Implement Feature Selection method.
+Plots.ipynb: Plot figures.
+Please refer to the paper for a detailed description.
 
