@@ -2,7 +2,7 @@
 Deep Learning for Frame Error Prediction using a DARPA Spectrum Collaboration Challenge (SC2) Dataset.
 
 # Dataset
-The dataset is contained in two files - scrimmage4_link_dataset.pickle and scrimmage5_link_dataset.pickle
+The dataset is contained in two files - scrimmage4_link_dataset.pickle and scrimmage5_link_dataset.pickle (will be available soon)
 
 The pickle files are stored as list of tuples, each list corresponding to a single link, and containing two elements. Length of each element equal to the number of frames in that link - it varies between link to link.
 The first tuple contains the paramenters:
